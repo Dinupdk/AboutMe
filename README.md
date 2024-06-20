@@ -19,12 +19,12 @@ Andhra Pradesh	AP Model jr.college , Dharmvaram
 45.6
 Under Graduation	Sri Krishnadevaraya University	Sri Sai Degree College, Dharmavaram	2022-2025	Pursuring
 
-Projects
+**Projects**
 Student Management System using python-Tkinter,pymysql modules
 Weather-App using React JS webLink :- https://dinupdk-weather-app.netlify.app/
 Gemini-AI-Clone  using React JS webLink :- https://dinupdk-gemini.netlify.app/
 Profile-folio using React JS  webLink :- https://dinupdk.netlify.app/
-Skills
+**Skills**
 Python
 MSSQL Server
 MySQL
@@ -32,12 +32,12 @@ Skills
 React JS
 MongoDB
 Tools: MS word, MS Excel.
-Strengths
+**Strengths**
 Positive Attitude
 Hard Working
 Good Communication Skills
 Team Player
-Hobbies
+**Hobbies**
 Listening Music
 Social Gathering
 Declaration
